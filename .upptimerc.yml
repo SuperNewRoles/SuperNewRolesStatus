@@ -9,7 +9,7 @@ sites:
     method: POST
     url: https://snranaly-1-z3859836.deta.app/ping
   - name: Blacklist
-    url: https://amongusbanlist-1-f7670492.deta.app/api/get_list?hash=true
+    url: https://blacklist.supernewroles.com/api/get_list?hash=true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
