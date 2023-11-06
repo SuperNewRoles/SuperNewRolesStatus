@@ -1,31 +1,117 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: SuperNewRoles
+repo: SuperNewRolesStatus
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Matchmaker
+    url: https://matchmaker.supernewroles.com/ping
+  - name: Analytics
+    method: POST
+    url: https://snranaly-1-z3859836.deta.app/ping
+  - name: Blacklist
+    url: https://amongusbanlist-1-f7670492.deta.app/api/get_list?hash=true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.supernewroles.com
+  baseUrl: /
+  favicon: https://avatars.githubusercontent.com/u/146430298?s=200&v=4
+  logoUrl: https://avatars.githubusercontent.com/u/146430298?s=200&v=4
+  name: SuperNewRolesステータス
+  introTitle: "SuperNewRolesのサービス稼働動作状況"
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: ステータス
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/SuperNewRoles
+      
+commitMessages:
+  commitAuthorName: "ステータスくん"
+  commitAuthorEmail: "status@supernewroles.com"
+
+workflowSchedule:
+  graphs: "*/10 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+i18n:
+  activeIncidents: 発生中の障害
+  allSystemsOperational: 全サービス稼働中✔
+  incidentReport: "障害No.#$NUMBERの情報"
+  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  incidentTitle: 障害No.$NUMBERの詳細
+  incidentDetails: 障害の詳細
+  incidentFixed: 修正済み
+  incidentOngoing: 発生中
+  incidentOpenedAt: に発生
+  incidentClosedAt: に終了
+  incidentViewOnGitHub: Githubで見る
+  incidentCommentSummary: $DATEに$AUTHORより
+  incidentBack: ← すべての障害へ
+  pastIncidents: 過去の障害
+  pastIncidentsResolved: $MINUTES分前に$POSTS分で解決
+  liveStatus: ライブステータス
+  overallUptime: "全サービス稼働時間：$UPTIME"
+  overallUptimeTitle: 全サービスの稼働時間
+  averageResponseTime: "平均応答時間： $TIMEms"
+  averageResponseTimeTitle: 平均応答時間
+  sevelDayResponseTime: 7日間の応答時間
+  responseTimeMs: 応答時間 (ms)
+  up: 稼働中
+  down: 未稼働
+  degraded: パフォーマンス低下中
+  ms: ms
+  loading: 読み込み中
+  navGitHub: GitHub
+  footer: このページは[オープンソース]($REPO)です。提供：[Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: レート制限です。
+  rateLimitExceededIntro: 1時間以内に実行できるリクエスト数を超えたため、このウェブサイトに再度アクセスする前に待機する必要があります。代わりに、GitHub Personal Access Token を追加して、このウェブサイトを引き続き利用することができます。
+  rateLimitExceededWhatDoesErrorMean: このエラーってなんやろ？
+  rateLimitExceededErrorMeaning: このウェブサイトでは、GitHub APIを使用して、ウェブサイトの状態に関するリアルタイムのデータにアクセスしています。デフォルトでは、GitHub は各 IP アドレスに対して 1 時間あたり 60 リクエストを許可しています。
+  rateLimitExceededErrorHowCanFix: どうしたら直んの？
+  rateLimitExceededErrorFix: 後1時間待てば制限なくなるから待ってくれや。他には、GitHub Personal Access Token を追加してくれたら、1 時間あたり 5,000 リクエスト行けるようになるで。
+  rateLimitExceededGeneratePAT: どうすればそれ生成できるん？
+  rateLimitExceededHasSet: 個人アクセストークン設定されとるで。
+  rateLimitExceededRemoveToken: トークンを削除
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: ここにトークンを置いてな。
+  rateLimitExceededSaveToken: トークンを保存
+  errorTitle: エラーーーーーー！！！
+  errorIntro: 最新の状態見ようとしたらエラー発生してしもたわ。
+  errorText: もう一度やる
+  errorHome: 最初のページに戻る
+  pastScheduledMaintenance: 過去のメンテナンス
+  scheduledMaintenance: メンテナンス
+  scheduledMaintenanceSummaryStarted: $DATEから$DURATION分間のメンテナンス
+  scheduledMaintenanceSummaryStarts: $DATEに$DURATION分間のメンテナンスが予定
+  startedAt: 開始時刻：
+  startsAt: 開始時刻
+  duration: 継続時間
+  durationMin: $DURATION 分
+  incidentCompleted: 完了
+  incidentScheduled: 予定
+  duration24H: 1日
+  duration7D: 1周間
+  duration30D: 1ヶ月(30日)
+  duration1Y: 1年
+  durationAll: 全部
+  # 以下Readmeの翻訳
+  url: "URL"
+  status: "状態"
+  history: "履歴"
+  responseTime: "応答時間"
+  uptime: "稼働時間"
+  responseTimeGraphAlt: "応答時間グラフ"
+  responseTimeDay: "1日の応答時間"
+  responseTimeWeek: "1周間の応答時間"
+  responseTimeMonth: "1ヶ月(30日)の応答時間"
+  responseTimeYear: "1年の応答時間"
+  uptimeDay: "1日の稼働時間"
+  uptimeWeek: "1周間の稼働時間"
+  uptimeMonth: "1ヶ月(30日)の稼働時間"
+  uptimeYear: "1年の稼働時間"
+  degradedPerformance: "🟨 パフォーマンスが低下しています"
+  completeOutage: "🟥 全未稼働"
+  partialOutage: "🟧 一部未稼働"
