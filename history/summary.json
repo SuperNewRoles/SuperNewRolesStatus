@@ -4,18 +4,20 @@
     "url": "https://matchmaker.supernewroles.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 380,
-    "timeDay": 380,
-    "timeWeek": 380,
-    "timeMonth": 380,
-    "timeYear": 380,
-    "dailyMinutesDown": {}
+    "time": 401,
+    "timeDay": 401,
+    "timeWeek": 401,
+    "timeMonth": 401,
+    "timeYear": 401,
+    "dailyMinutesDown": {
+      "2023-11-07": 0
+    }
   },
   {
     "name": "Analytics",
