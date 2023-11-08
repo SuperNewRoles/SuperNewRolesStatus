@@ -45,13 +45,13 @@ i18n:
   incidentDetails: 障害の詳細
   incidentFixed: 修正済み
   incidentOngoing: 発生中
-  incidentOpenedAt: に発生
-  incidentClosedAt: に終了
+  incidentOpenedAt: 発生時刻
+  incidentClosedAt: 終了時刻
   incidentViewOnGitHub: Githubで見る
   incidentCommentSummary: $DATEに$AUTHORより
   incidentBack: ← すべての障害へ
   pastIncidents: 過去の障害
-  pastIncidentsResolved: $MINUTES分前に$POSTS分で解決
+  pastIncidentsResolved: $MINUTES分間発生($POSTSコメント)
   liveStatus: ライブステータス
   overallUptime: "全サービス稼働時間：$UPTIME"
   overallUptimeTitle: 全サービスの稼働時間
