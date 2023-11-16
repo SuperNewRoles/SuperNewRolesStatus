@@ -1,7 +1,7 @@
 url: https://matchmaker.supernewroles.com/ping
-status: up
-code: 200
-responseTime: 309
-lastUpdated: 2023-11-16T11:54:42.270Z
+status: down
+code: 500
+responseTime: 386
+lastUpdated: 2023-11-16T14:30:16.238Z
 startTime: 2023-11-06T10:39:51.365Z
 generator: Upptime <https://github.com/upptime/upptime>
