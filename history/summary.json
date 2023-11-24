@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "80.35%",
+    "uptime": "80.50%",
     "uptimeDay": "98.57%",
     "uptimeWeek": "72.32%",
-    "uptimeMonth": "80.35%",
-    "uptimeYear": "80.35%",
+    "uptimeMonth": "80.50%",
+    "uptimeYear": "80.50%",
     "time": 398,
     "timeDay": 466,
     "timeWeek": 409,
@@ -50,17 +50,19 @@
     "url": "https://blacklist.supernewroles.com/api/get_list?hash=true",
     "icon": "https://icons.duckduckgo.com/ip3/blacklist.supernewroles.com.ico",
     "slug": "blacklist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 438,
-    "timeWeek": 257,
-    "timeMonth": 270,
-    "timeYear": 270,
-    "dailyMinutesDown": {}
+    "time": 274,
+    "timeDay": 430,
+    "timeWeek": 268,
+    "timeMonth": 274,
+    "timeYear": 274,
+    "dailyMinutesDown": {
+      "2023-11-24": 0
+    }
   }
 ]
