@@ -50,19 +50,19 @@
     "url": "https://blacklist.supernewroles.com/api/get_list?hash=true",
     "icon": "https://icons.duckduckgo.com/ip3/blacklist.supernewroles.com.ico",
     "slug": "blacklist",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 294,
-    "timeDay": 461,
+    "timeDay": 444,
     "timeWeek": 309,
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-11-24": 0
+      "2023-11-24": 11
     }
   }
 ]
