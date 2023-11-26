@@ -1,7 +1,7 @@
 url: https://blacklist.supernewroles.com/api/get_list?hash=true
-status: down
-code: 500
-responseTime: 351
-lastUpdated: 2023-11-26T12:53:33.665Z
+status: up
+code: 200
+responseTime: 432
+lastUpdated: 2023-11-26T13:36:08.686Z
 startTime: 2023-11-06T10:39:53.045Z
 generator: Upptime <https://github.com/upptime/upptime>
