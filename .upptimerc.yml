@@ -5,11 +5,13 @@ repo: SuperNewRolesStatus
 sites:
   - name: Matchmaker
     url: https://matchmaker.supernewroles.com/ping
+  - name: SuperNewRolesWeb
+    url: https://web.supernewroles.com/
+  - name: Blacklist
+    url: https://blacklist.supernewroles.com/api/get_list?hash=true
   - name: Analytics
     method: POST
     url: https://snranaly-1-z3859836.deta.app/ping
-  - name: Blacklist
-    url: https://blacklist.supernewroles.com/api/get_list?hash=true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
