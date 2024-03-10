@@ -3,6 +3,8 @@ owner: SuperNewRoles
 repo: SuperNewRolesStatus
 
 sites:
+  - name: CustomServer
+    url: https://cs.supernewroles.com
   - name: Matchmaker
     url: https://matchmaker.supernewroles.com/ping
   - name: SuperNewRolesWeb
