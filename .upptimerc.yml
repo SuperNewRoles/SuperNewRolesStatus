@@ -5,6 +5,10 @@ repo: SuperNewRolesStatus
 sites:
   - name: CustomServer
     url: https://cs.supernewroles.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Matchmaker
     url: https://matchmaker.supernewroles.com/ping
   - name: SuperNewRolesWeb
