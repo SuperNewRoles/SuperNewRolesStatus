@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs.supernewroles.com.ico",
     "slug": "custom-server",
     "status": "up",
-    "uptime": "6.49%",
-    "uptimeDay": "6.49%",
-    "uptimeWeek": "6.49%",
-    "uptimeMonth": "6.49%",
-    "uptimeYear": "6.49%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 541,
     "timeDay": 541,
     "timeWeek": 541,
     "timeMonth": 541,
     "timeYear": 541,
-    "dailyMinutesDown": {
-      "2024-03-10": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matchmaker",
