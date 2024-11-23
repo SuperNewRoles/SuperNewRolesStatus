@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs.supernewroles.com.ico",
     "slug": "custom-server",
     "status": "up",
-    "uptime": "96.61%",
+    "uptime": "96.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.61%",
-    "time": 619,
-    "timeDay": 484,
-    "timeWeek": 443,
-    "timeMonth": 432,
-    "timeYear": 619,
+    "uptimeYear": "96.62%",
+    "time": 618,
+    "timeDay": 439,
+    "timeWeek": 449,
+    "timeMonth": 429,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2024-09-15": 477,
       "2024-09-14": 894,
@@ -40,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "75.46%",
+    "uptime": "75.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "75.29%",
     "time": 528,
-    "timeDay": 494,
-    "timeWeek": 437,
-    "timeMonth": 419,
+    "timeDay": 453,
+    "timeWeek": 444,
+    "timeMonth": 417,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2024-11-16": 44,
@@ -166,8 +166,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1284,
-      "2023-11-24": 35
+      "2023-11-25": 1284
     }
   },
   {
@@ -181,11 +180,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 275,
-    "timeDay": 94,
-    "timeWeek": 110,
-    "timeMonth": 105,
-    "timeYear": 275,
+    "time": 274,
+    "timeDay": 82,
+    "timeWeek": 101,
+    "timeMonth": 103,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2024-05-26": 33,
       "2024-05-25": 7
@@ -203,18 +202,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 273,
-    "timeDay": 156,
-    "timeWeek": 92,
-    "timeMonth": 118,
-    "timeYear": 274,
+    "timeDay": 125,
+    "timeWeek": 99,
+    "timeMonth": 117,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2024-09-13": 73,
       "2023-11-29": 320,
       "2023-11-28": 625,
       "2023-11-27": 252,
       "2023-11-26": 288,
-      "2023-11-25": 225,
-      "2023-11-24": 92
+      "2023-11-25": 225
     }
   },
   {
@@ -229,9 +227,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 472,
-    "timeWeek": 438,
-    "timeMonth": 408,
+    "timeDay": 416,
+    "timeWeek": 436,
+    "timeMonth": 406,
     "timeYear": 406,
     "dailyMinutesDown": {}
   }
