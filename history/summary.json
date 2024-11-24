@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs.supernewroles.com.ico",
     "slug": "custom-server",
     "status": "up",
-    "uptime": "96.62%",
+    "uptime": "96.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.62%",
-    "time": 618,
-    "timeDay": 439,
-    "timeWeek": 449,
-    "timeMonth": 429,
-    "timeYear": 618,
+    "uptimeYear": "96.63%",
+    "time": 617,
+    "timeDay": 388,
+    "timeWeek": 444,
+    "timeMonth": 431,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2024-09-15": 477,
       "2024-09-14": 894,
@@ -40,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "75.53%",
+    "uptime": "75.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "75.29%",
-    "time": 528,
-    "timeDay": 453,
-    "timeWeek": 444,
-    "timeMonth": 417,
+    "time": 527,
+    "timeDay": 403,
+    "timeWeek": 456,
+    "timeMonth": 420,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2024-11-16": 44,
@@ -165,8 +165,7 @@
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
-      "2023-11-26": 1440,
-      "2023-11-25": 1284
+      "2023-11-26": 1440
     }
   },
   {
@@ -181,9 +180,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 274,
-    "timeDay": 82,
-    "timeWeek": 101,
-    "timeMonth": 103,
+    "timeDay": 84,
+    "timeWeek": 99,
+    "timeMonth": 104,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2024-05-26": 33,
@@ -202,17 +201,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 273,
-    "timeDay": 125,
-    "timeWeek": 99,
-    "timeMonth": 117,
-    "timeYear": 275,
+    "timeDay": 176,
+    "timeWeek": 116,
+    "timeMonth": 121,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2024-09-13": 73,
       "2023-11-29": 320,
       "2023-11-28": 625,
       "2023-11-27": 252,
-      "2023-11-26": 288,
-      "2023-11-25": 225
+      "2023-11-26": 288
     }
   },
   {
@@ -226,11 +224,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 416,
-    "timeWeek": 436,
+    "time": 405,
+    "timeDay": 341,
+    "timeWeek": 424,
     "timeMonth": 406,
-    "timeYear": 406,
+    "timeYear": 405,
     "dailyMinutesDown": {}
   }
 ]
