@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.44%",
-    "time": 573,
-    "timeDay": 412,
-    "timeWeek": 437,
-    "timeMonth": 434,
-    "timeYear": 573,
+    "time": 572,
+    "timeDay": 461,
+    "timeWeek": 433,
+    "timeMonth": 433,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2024-09-15": 477,
       "2024-09-14": 894,
@@ -40,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "79.85%",
+    "uptime": "79.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.59%",
+    "uptimeYear": "91.86%",
     "time": 559,
-    "timeDay": 477,
-    "timeWeek": 453,
-    "timeMonth": 435,
+    "timeDay": 499,
+    "timeWeek": 452,
+    "timeMonth": 434,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2024-11-16": 44,
@@ -99,8 +99,7 @@
       "2024-02-21": 1050,
       "2024-02-18": 216,
       "2024-02-17": 1440,
-      "2024-02-16": 1440,
-      "2024-02-15": 1440
+      "2024-02-16": 1440
     }
   },
   {
@@ -115,8 +114,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 245,
-    "timeDay": 123,
-    "timeWeek": 114,
+    "timeDay": 147,
+    "timeWeek": 115,
     "timeMonth": 127,
     "timeYear": 275,
     "dailyMinutesDown": {
@@ -136,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 202,
-    "timeDay": 53,
-    "timeWeek": 102,
-    "timeMonth": 108,
+    "timeDay": 305,
+    "timeWeek": 125,
+    "timeMonth": 116,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2024-09-13": 73
@@ -155,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 469,
-    "timeWeek": 429,
+    "time": 412,
+    "timeDay": 468,
+    "timeWeek": 436,
     "timeMonth": 423,
-    "timeYear": 411,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   }
 ]
