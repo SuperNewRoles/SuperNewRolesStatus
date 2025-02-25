@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.52%",
     "time": 569,
-    "timeDay": 426,
-    "timeWeek": 458,
-    "timeMonth": 452,
+    "timeDay": 503,
+    "timeWeek": 461,
+    "timeMonth": 453,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2024-09-15": 477,
@@ -40,14 +40,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "80.31%",
+    "uptime": "80.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.75%",
+    "uptimeYear": "94.02%",
     "time": 559,
-    "timeDay": 398,
-    "timeWeek": 429,
+    "timeDay": 442,
+    "timeWeek": 434,
     "timeMonth": 454,
     "timeYear": 605,
     "dailyMinutesDown": {
@@ -90,8 +90,7 @@
       "2024-03-01": 638,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
-      "2024-02-27": 1440,
-      "2024-02-26": 1440
+      "2024-02-27": 1440
     }
   },
   {
@@ -106,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 242,
-    "timeDay": 131,
-    "timeWeek": 110,
-    "timeMonth": 120,
+    "timeDay": 166,
+    "timeWeek": 116,
+    "timeMonth": 123,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2024-05-26": 33,
@@ -126,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 195,
-    "timeDay": 129,
-    "timeWeek": 108,
-    "timeMonth": 115,
-    "timeYear": 184,
+    "time": 194,
+    "timeDay": 113,
+    "timeWeek": 107,
+    "timeMonth": 114,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2024-09-13": 73
     }
@@ -146,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 480,
-    "timeWeek": 430,
-    "timeMonth": 441,
-    "timeYear": 415,
+    "time": 416,
+    "timeDay": 526,
+    "timeWeek": 445,
+    "timeMonth": 445,
+    "timeYear": 416,
     "dailyMinutesDown": {}
   }
 ]
