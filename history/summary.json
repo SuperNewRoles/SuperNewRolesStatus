@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.54%",
     "time": 568,
-    "timeDay": 339,
-    "timeWeek": 431,
-    "timeMonth": 452,
+    "timeDay": 354,
+    "timeWeek": 411,
+    "timeMonth": 449,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2024-09-15": 477,
@@ -40,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "80.44%",
+    "uptime": "80.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.57%",
+    "uptimeYear": "94.84%",
     "time": 560,
-    "timeDay": 404,
-    "timeWeek": 428,
-    "timeMonth": 453,
+    "timeDay": 297,
+    "timeWeek": 411,
+    "timeMonth": 449,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2024-11-16": 44,
@@ -87,8 +87,7 @@
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1238,
-      "2024-03-01": 638,
-      "2024-02-29": 1440
+      "2024-03-01": 638
     }
   },
   {
@@ -103,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 241,
-    "timeDay": 130,
-    "timeWeek": 121,
-    "timeMonth": 123,
+    "timeDay": 112,
+    "timeWeek": 122,
+    "timeMonth": 121,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2024-05-26": 33,
@@ -123,10 +122,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 194,
-    "timeDay": 111,
-    "timeWeek": 122,
-    "timeMonth": 117,
+    "time": 193,
+    "timeDay": 76,
+    "timeWeek": 117,
+    "timeMonth": 114,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-09-13": 73
@@ -143,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 416,
-    "timeDay": 323,
-    "timeWeek": 440,
-    "timeMonth": 443,
-    "timeYear": 416,
+    "time": 415,
+    "timeDay": 352,
+    "timeWeek": 426,
+    "timeMonth": 439,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   }
 ]
