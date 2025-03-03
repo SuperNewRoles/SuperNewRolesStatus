@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.56%",
-    "time": 567,
-    "timeDay": 375,
-    "timeWeek": 395,
+    "time": 566,
+    "timeDay": 499,
+    "timeWeek": 406,
     "timeMonth": 444,
-    "timeYear": 567,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2024-09-15": 477,
       "2024-09-14": 894,
@@ -40,14 +40,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "80.55%",
-    "uptimeDay": "97.82%",
+    "uptime": "80.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "95.49%",
-    "time": 559,
-    "timeDay": 418,
-    "timeWeek": 404,
+    "time": 560,
+    "timeDay": 410,
+    "timeWeek": 405,
     "timeMonth": 448,
     "timeYear": 605,
     "dailyMinutesDown": {
@@ -86,8 +86,7 @@
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
-      "2024-03-04": 1440,
-      "2024-03-03": 1238
+      "2024-03-04": 1440
     }
   },
   {
@@ -101,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 241,
-    "timeDay": 218,
-    "timeWeek": 141,
-    "timeMonth": 126,
-    "timeYear": 276,
+    "time": 240,
+    "timeDay": 141,
+    "timeWeek": 142,
+    "timeMonth": 125,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2024-05-26": 33,
       "2024-05-25": 7
@@ -123,9 +122,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 192,
-    "timeDay": 164,
+    "timeDay": 129,
     "timeWeek": 123,
-    "timeMonth": 118,
+    "timeMonth": 119,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2024-09-13": 73
@@ -143,8 +142,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 414,
-    "timeDay": 330,
-    "timeWeek": 405,
+    "timeDay": 450,
+    "timeWeek": 401,
     "timeMonth": 434,
     "timeYear": 414,
     "dailyMinutesDown": {}
