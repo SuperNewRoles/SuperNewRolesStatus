@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
-    "time": 541,
-    "timeDay": 406,
-    "timeWeek": 1064,
-    "timeMonth": 615,
+    "time": 540,
+    "timeDay": 508,
+    "timeWeek": 547,
+    "timeMonth": 620,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2025-04-29": 123,
@@ -34,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "85.90%",
+    "uptime": "85.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.59%",
-    "time": 574,
-    "timeDay": 464,
-    "timeWeek": 465,
-    "timeMonth": 459,
+    "time": 567,
+    "timeDay": 506,
+    "timeWeek": 460,
+    "timeMonth": 465,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2025-05-13": 36,
@@ -66,8 +66,7 @@
       "2024-09-11": 452,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
-      "2024-09-08": 1302,
-      "2024-09-03": 27
+      "2024-09-08": 1302
     }
   },
   {
@@ -82,8 +81,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 189,
-    "timeWeek": 184,
+    "timeDay": 156,
+    "timeWeek": 147,
     "timeMonth": 166,
     "timeYear": 240,
     "dailyMinutesDown": {}
@@ -100,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 56,
-    "timeWeek": 751,
-    "timeMonth": 290,
+    "timeDay": 91,
+    "timeWeek": 132,
+    "timeMonth": 287,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2024-09-13": 73
@@ -120,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
-    "timeDay": 401,
-    "timeWeek": 504,
-    "timeMonth": 455,
+    "timeDay": 451,
+    "timeWeek": 490,
+    "timeMonth": 457,
     "timeYear": 422,
     "dailyMinutesDown": {}
   }
