@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs.supernewroles.com.ico",
     "slug": "custom-server",
     "status": "up",
-    "uptime": "98.39%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.18%",
+    "uptimeYear": "99.45%",
     "time": 540,
-    "timeDay": 347,
-    "timeWeek": 485,
-    "timeMonth": 631,
+    "timeDay": 450,
+    "timeWeek": 459,
+    "timeMonth": 634,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2025-04-29": 123,
@@ -21,8 +21,7 @@
       "2024-09-15": 477,
       "2024-09-14": 894,
       "2024-09-13": 989,
-      "2024-09-12": 15,
-      "2024-09-11": 452
+      "2024-09-12": 15
     }
   },
   {
@@ -31,15 +30,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "86.07%",
+    "uptime": "86.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.40%",
     "time": 507,
-    "timeDay": 459,
-    "timeWeek": 513,
-    "timeMonth": 481,
+    "timeDay": 496,
+    "timeWeek": 493,
+    "timeMonth": 485,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2025-05-13": 36,
@@ -59,8 +58,7 @@
       "2024-09-15": 477,
       "2024-09-14": 892,
       "2024-09-13": 987,
-      "2024-09-12": 13,
-      "2024-09-11": 452
+      "2024-09-12": 13
     }
   },
   {
@@ -75,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 146,
-    "timeWeek": 175,
+    "timeDay": 168,
+    "timeWeek": 162,
     "timeMonth": 174,
-    "timeYear": 187,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -93,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 141,
-    "timeWeek": 143,
-    "timeMonth": 293,
+    "timeDay": 77,
+    "timeWeek": 139,
+    "timeMonth": 291,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2024-09-13": 73
@@ -112,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 333,
-    "timeWeek": 421,
-    "timeMonth": 457,
-    "timeYear": 422,
+    "time": 423,
+    "timeDay": 514,
+    "timeWeek": 410,
+    "timeMonth": 464,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   }
 ]
