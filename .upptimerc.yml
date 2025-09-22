@@ -18,6 +18,18 @@ sites:
   - name: NewAnalytics
     method: POST
     url: https://analytics.supernewroles.com/ping
+  - name: Reports api
+    method: GET
+    url: https://reports-api.supernewroles.com/
+  - name: Reports api v1
+    method: GET
+    url: https://reports-api.supernewroles.com/
+  - name: Reports api v2
+    method: GET
+    url: https://reports-api.supernewroles.com/api/v2
+  - name: Reports api v3
+    method: GET
+    url: https://reports-api.supernewroles.com/api/v3
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
