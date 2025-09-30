@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "86.47%",
+    "uptime": "86.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -76,18 +76,20 @@
     "url": "https://blacklist.supernewroles.com/api/get_list?hash=true",
     "icon": "https://icons.duckduckgo.com/ip3/blacklist.supernewroles.com.ico",
     "slug": "blacklist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 127,
-    "timeWeek": 140,
-    "timeMonth": 135,
-    "timeYear": 148,
-    "dailyMinutesDown": {}
+    "time": 190,
+    "timeDay": 489,
+    "timeWeek": 229,
+    "timeMonth": 156,
+    "timeYear": 150,
+    "dailyMinutesDown": {
+      "2025-09-30": 0
+    }
   },
   {
     "name": "NewAnalytics",
