@@ -1,7 +1,7 @@
 url: https://analytics.supernewroles.com/ping
-status: up
-code: 200
-responseTime: 394
-lastUpdated: 2025-09-30T23:18:39.876Z
+status: down
+code: 503
+responseTime: 1850
+lastUpdated: 2025-10-01T16:43:15.824Z
 startTime: 2024-10-18T12:01:35.164Z
 generator: Upptime <https://github.com/upptime/upptime>
