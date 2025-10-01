@@ -96,19 +96,19 @@
     "url": "https://analytics.supernewroles.com/ping",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.supernewroles.com.ico",
     "slug": "new-analytics",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 427,
-    "timeDay": 1122,
-    "timeWeek": 586,
-    "timeMonth": 471,
+    "timeDay": 875,
+    "timeWeek": 563,
+    "timeMonth": 468,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 12
     }
   },
   {
