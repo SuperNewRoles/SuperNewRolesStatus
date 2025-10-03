@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/matchmaker.supernewroles.com.ico",
     "slug": "matchmaker",
     "status": "up",
-    "uptime": "86.53%",
+    "uptime": "86.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -59,18 +59,20 @@
     "url": "https://web.supernewroles.com/",
     "icon": "https://icons.duckduckgo.com/ip3/web.supernewroles.com.ico",
     "slug": "super-new-roles-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 206,
-    "timeWeek": 105,
-    "timeMonth": 145,
-    "timeYear": 127,
-    "dailyMinutesDown": {}
+    "time": 247,
+    "timeDay": 404,
+    "timeWeek": 167,
+    "timeMonth": 159,
+    "timeYear": 129,
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   },
   {
     "name": "Blacklist",
