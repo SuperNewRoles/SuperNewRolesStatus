@@ -1,7 +1,7 @@
 url: https://reports-api.supernewroles.com/
-status: down
-code: 500
-responseTime: 122
-lastUpdated: 2025-11-18T16:00:38.142Z
+status: up
+code: 200
+responseTime: 197
+lastUpdated: 2025-11-18T16:38:58.001Z
 startTime: 2025-09-22T06:52:33.738Z
 generator: Upptime <https://github.com/upptime/upptime>
